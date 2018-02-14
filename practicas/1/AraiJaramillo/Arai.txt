@@ -1,2 +1,1 @@
-$ git add Arai.txt
-$ git push
+Hola mi nombre de usuario es araijaramoc
